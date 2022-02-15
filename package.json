@@ -3,6 +3,7 @@
   "productName": "electron-react-sass-webpack",
   "version": "1.0.0",
   "description": "Boilerplate for writing Desktop Applications using Electron, React, Sass and Webpack",
+  "license": "MIT",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
