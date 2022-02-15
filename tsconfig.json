@@ -17,5 +17,5 @@
     },
     "typeRoots": [".src/main/@types", ".src/renderer/@types"]
   },
-  "include": ["src/**/*", "src/renderer/renderer.tsx"]
+  "include": ["src/**/*"]
 }
